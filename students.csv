@@ -1,0 +1,16 @@
+StudentID,Name,Age,Gender,Department,Year,Email,Phone,CGPA
+101,John,20,Male,CSE,3,john@example.com,9000000001,8.5
+102,Emma,21,Female,ECE,4,emma@example.com,9000000002,9.1
+103,Alex,19,Male,IT,2,alex@example.com,9000000003,8.2
+104,Sophia,20,Female,AIML,3,sophia@example.com,9000000004,9.4
+105,David,21,Male,CSE,4,david@example.com,9000000005,8.8
+106,Mia,20,Female,ECE,3,mia@example.com,9000000006,9.0
+107,Noah,22,Male,IT,4,noah@example.com,9000000007,7.9
+108,Grace,19,Female,AIML,2,grace@example.com,9000000008,9.3
+109,Ethan,20,Male,CSE,3,ethan@example.com,9000000009,8.7
+110,Lily,21,Female,ECE,4,lily@example.com,9000000010,9.2
+111,Sam,20,Male,IT,3,sam@example.com,9000000011,8.1
+112,Chloe,19,Female,AIML,2,chloe@example.com,9000000012,9.5
+113,Ryan,21,Male,CSE,4,ryan@example.com,9000000013,8.6
+114,Ella,20,Female,ECE,3,ella@example.com,9000000014,9.0
+115,Leo,22,Male,IT,4,leo@example.com,9000000015,8.3
